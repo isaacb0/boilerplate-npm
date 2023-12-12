@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Isaac Bocage",
+	"description": "A project to practice Node",
+	"keywords": ["solo", "project", "freecodecamp"],
+	"license": "standard copyright",
+	"version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
